@@ -4,12 +4,15 @@
       "title": "Junior web developer"
     }
   ],
-  "about": [
-    "Hello there",
-    "My name is Sipho Nkebe",
-    "I am an aspiring web developer",
-    "Please explore my portfolio"
-  ],
+  "about": {
+    "description": [
+      "Hello there",
+      "My name is Sipho Nkebe",
+      "I am an aspiring web developer",
+      "Please explore my portfolio"
+    ],
+    "profile": "https://siphochris.github.io/images/images/portfolio_images/profile.jpg"
+  },
   "education": [
     {
       "id": 1,
@@ -24,58 +27,54 @@
       "place": "Life Choices Academy"
     }
   ],
-  "experiences": [
-    {
-      "id": 1,
-      "companyName": "Orama Carwash",
-      "jobTitle": "Attendee",
-      "duration": "June 2021 - June 2022",
-      "duties": [
-        "Accept payments",
-        "Clean cars",
-        "Communicating with clients for feedback on service quality"
-      ]
+  "experiences": {
+    "id": 1,
+    "companyName": "Orama Carwash",
+    "jobTitle": "Attendee",
+    "duration": "June 2021 - June 2022",
+    "duties": [
+      "Accept payments",
+      "Clean cars",
+      "Communicating with clients for feedback on service quality"
+    ]
+  },
+  "skills": {
+    "title": "Web Development",
+    "techStack": {
+      "frontend": ["HTML", "CSS", "JavaScript", "VueJS"],
+      "tools": ["CLI", "Figma", "NPM", "VS Code"]
     }
-  ],
-  "skills":
-    {
-      "title": "Web Development",
-      "techStack":
-        {
-          "frontend": ["HTML", "CSS", "JavaScript", "VueJS"],
-          "tools": ["CLI", "Figma", "NPM", "VS Code"]
-        }
-    },
+  },
   "testimonials": [
     {
       "name": "Yakupha",
       "surname": "Ntonintshi",
       "testimonial": "Working with Sipho was an absolute pleasure. His portfolio reflects his dedication to excellence and his commitment to delivering top-notch solutions. What sets him apart is his ability to not only write code but to understand the bigger picture and contribute meaningfully to the project's success. I wouldn't hesitate to recommend him to anyone in need of a talented software developer.",
-      "profile": "https://github.com/codjoelmayer/projectImages/images/rachel.jpg"
+      "profile": "https://siphochris.github.io/images/images/portfolio_images/yakupha.jpg"
     },
     {
       "name": "Joel",
       "surname": "Mukanya",
       "testimonial": "Sipho is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with his peers and excels at working on project assignments. He has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. He is a person who enjoys helping others and stays humble. I am pleased to introduce him as an exceptional candidate and developer.",
-      "profile": "https://github.com/codjoelmayer/projectImages/images/ruth.jpg"
+      "profile": "https://siphochris.github.io/images/images/portfolio_images/joel.jpg"
     },
     {
       "name": "Ammy",
       "surname": "Johnson",
       "testimonial": "Sipho has this vibrant and energetic personality that lights up any room he enters. He inspires people to think positively and allows for their creativity to run wild. He sees things from different perspectives and has an open mind to all opinions. He is respectful, gentle and extends a helping hand, where needed. He is professional, well-mannered and a student of life, forever wanting to learn new things. He is understanding, patient and well-spoken. ",
-      "profile": "https://github.com/codjoelmayer/projectImages/images/profile-Image.png"
+      "profile": "https://siphochris.github.io/images/images/portfolio_images/ammy.jpg"
     },
     {
       "name": "Zizipho",
       "surname": "Copiso",
       "testimonial": "Sipho is a very remarkable person. His love for new information and drive are very commendable. He is always willing to learn and better himself. He avails himself all the time to anyone in need of anything. He is dynamic and appeals to anyone and everyone. His thirst for success is also contageous to those around him. He awakens a sense of hope for many of us. His ability to find solution to problems is a sight to be seen and he dedicates the same amount of enthusiasm for both simple and complex problems",
-      "profile": "https://github.com/codjoelmayer/projectImages/images/profile-Image.png"
+      "profile": "https://siphochris.github.io/images/images/portfolio_images/zizipho.jpg"
     },
     {
       "name": "Keira",
       "surname": "Kistensamy",
       "testimonial": "I'm delighted to share a testimonial for Sipho Nkebe, a dedicated individual I had the pleasure of meeting just a month ago. In the short time that I've known Sipho , he has consistently demonstrated their tenacity and drive to succeed in every task they undertake. His hardworking nature is not only admirable but also infectious, inspiring those around them to strive for their best. What truly stands out about Sipho is his ability to remain focused and determined, even he is faced with challenges or setbacks. Instead of being deterred, he approach obstacles with a positive attitude and a willingness to find creative solutions. In addition to his strong work ethic, Sipho is also an exceptional team player. He understand the value of collaboration and are always willing to lend a helping hand to ensure the success of the entire team.",
-      "profile": "https://github.com/codjoelmayer/projectImages/images/profile-Image.png"
+      "profile": "https://siphochris.github.io/images/images/portfolio_images/keira.jpg"
     }
   ],
   "projects": [
