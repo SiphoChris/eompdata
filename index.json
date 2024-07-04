@@ -80,35 +80,35 @@
   "projects": [
     {
       "name": "FlipCard",
-      "image": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git" ,
+      "image": "https://siphochris.github.io/images/images/portfolio_images/flipcard.png" ,
       "description": "I built this application using HTML 5, CSS 3, and Javascript.",
       "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
       "vercel": "https://joel-todo-list.vercel.app/"
     },
     {
       "name": "Calculator",
-      "image": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git" ,
+      "image": "https://siphochris.github.io/images/images/portfolio_images/calculator.png" ,
       "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript.",
       "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
       "vercel": "https://regexpcalculator.vercel.app/"
     },
     {
       "name": "HuluClone",
-      "image": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git" ,
+      "image": "https://siphochris.github.io/images/images/portfolio_images/hulu.png" ,
       "description": "I made use of HTML, CSS to complete this application",
       "gitHub": "https://github.com/codjoelmayer/messageBelieversCircle.git",
       "vercel": "https://messagebelieverscircle-3491d.web.app/"
     },
     {
       "name": "Portfolio",
-      "image": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git" ,
+      "image": "https://siphochris.github.io/images/images/portfolio_images/portfolio.png" ,
       "description": "I built this website using HTML 5, CSS 3, Javascript, and Bootstrap 5",
       "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
       "vercel": "https://jtlaptops.vercel.app/"
     },
     {
       "name": "Keyboard",
-      "image": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git" ,
+      "image": "https://siphochris.github.io/images/images/portfolio_images/keyboard.png" ,
       "description": "I built a keyboard using HTML 5, CSS, Bootstrap, and Javascript.",
       "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
       "vercel": "https://joeljsportfolio.vercel.app/"
