@@ -43,33 +43,33 @@
     "techStack": {
       "frontend": [ 
         {
-          "img": "https://img.icons8.com/fluency/48/html-5.png",
+          "img": "https://img.icons8.com/fluency/96/html-5.png",
           "title": "HTML"
         },
         {
-          "img": "https://img.icons8.com/fluency/48/css3.png",
+          "img": "https://img.icons8.com/fluency/96/css3.png",
           "title": "CSS"
         },
         {
-          "img": "https://img.icons8.com/fluency/48/javascript.png",
+          "img": "https://img.icons8.com/fluency/96/javascript.png",
           "title": "JavaScript"
         },
         {
-          "img": "https://img.icons8.com/color/48/vue-js.png",
+          "img": "https://img.icons8.com/color/96/vue-js.png",
           "title": "VueJS"
         }
       ],
       "tools": [ 
         {
-          "img": "https://img.icons8.com/color/48/command-line.png",
+          "img": "https://img.icons8.com/color/96/command-line.png",
           "title": "CLI"
         },
         {
-          "img": "https://img.icons8.com/color/48/npm.png",
+          "img": "https://img.icons8.com/color/96/npm.png",
           "title": "NPM"
         },
         {
-          "img": "https://img.icons8.com/color/48/figma--v1.png",
+          "img": "https://img.icons8.com/color/96/figma--v1.png",
           "title": "Figma"
         },
         {
