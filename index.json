@@ -41,7 +41,7 @@
   "skills": {
     "title": "Web Development",
     "techStack": {
-      "frontend": [
+      "frontend": [ 
         {
           "img": "https://img.icons8.com/fluency/48/html-5.png",
           "title": "HTML"
@@ -59,7 +59,24 @@
           "tite": "VueJS"
         }
       ],
-      "tools": ["CLI", "Figma", "NPM", "VS Code"]
+      "tools": [ 
+        {
+          "img": "https://img.icons8.com/color/48/command-line.png",
+          "title": "CLI"
+        },
+        {
+          "img": "https://img.icons8.com/color/48/npm.png",
+          "tite": "NPM"
+        },
+        {
+          "img": "https://img.icons8.com/color/48/figma--v1.png",
+          "tite": "Figma"
+        },
+        {
+          "img": "https://img.icons8.com/nolan/64/1A6DFF/C822FF/visual-studio.png",
+          "tite": "VS Code"
+        }
+      ]
     }
   },
   "testimonials": [
