@@ -48,15 +48,15 @@
         },
         {
           "img": "https://img.icons8.com/fluency/48/css3.png",
-          "tite": "CSS"
+          "title": "CSS"
         },
         {
           "img": "https://img.icons8.com/fluency/48/javascript.png",
-          "tite": "JavaScript"
+          "title": "JavaScript"
         },
         {
           "img": "https://img.icons8.com/color/48/vue-js.png",
-          "tite": "VueJS"
+          "title": "VueJS"
         }
       ],
       "tools": [ 
@@ -66,15 +66,15 @@
         },
         {
           "img": "https://img.icons8.com/color/48/npm.png",
-          "tite": "NPM"
+          "title": "NPM"
         },
         {
           "img": "https://img.icons8.com/color/48/figma--v1.png",
-          "tite": "Figma"
+          "title": "Figma"
         },
         {
           "img": "https://img.icons8.com/nolan/64/1A6DFF/C822FF/visual-studio.png",
-          "tite": "VS Code"
+          "title": "VS Code"
         }
       ]
     }
