@@ -41,7 +41,7 @@
   "skills": {
     "title": "Web Development",
     "techStack": {
-      "frontend": [ 
+      "frontend": [
         {
           "img": "https://img.icons8.com/fluency/96/html-5.png",
           "title": "HTML"
@@ -59,7 +59,7 @@
           "title": "VueJS"
         }
       ],
-      "tools": [ 
+      "tools": [
         {
           "img": "https://img.icons8.com/color/96/command-line.png",
           "title": "CLI"
@@ -114,8 +114,7 @@
       "surname": "Kistensamy",
       "testimonial": "I'm delighted to share a testimonial for Sipho Nkebe, a dedicated individual I had the pleasure of meeting just a month ago. His hardworking nature is not only admirable but also infectious, inspiring those around them to strive for their best. Instead of being deterred, he approach obstacles with a positive attitude and a willingness to find creative solutions. In addition to his strong work ethic, Sipho is also an exceptional team player. He understand the value of collaboration and are always willing to lend a helping hand to ensure the success of the entire team.",
       "profile": "https://siphochris.github.io/images/images/portfolio_images/keira.jpg"
-    }
-    ,
+    },
     {
       "id": 6,
       "name": "Mapule",
