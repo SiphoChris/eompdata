@@ -112,8 +112,16 @@
       "id": 5,
       "name": "Keira",
       "surname": "Kistensamy",
-      "testimonial": "I'm delighted to share a testimonial for Sipho Nkebe, a dedicated individual I had the pleasure of meeting just a month ago. In the short time that I've known Sipho , he has consistently demonstrated their tenacity and drive to succeed in every task they undertake. His hardworking nature is not only admirable but also infectious, inspiring those around them to strive for their best. What truly stands out about Sipho is his ability to remain focused and determined, even he is faced with challenges or setbacks. Instead of being deterred, he approach obstacles with a positive attitude and a willingness to find creative solutions. In addition to his strong work ethic, Sipho is also an exceptional team player. He understand the value of collaboration and are always willing to lend a helping hand to ensure the success of the entire team.",
+      "testimonial": "I'm delighted to share a testimonial for Sipho Nkebe, a dedicated individual I had the pleasure of meeting just a month ago. His hardworking nature is not only admirable but also infectious, inspiring those around them to strive for their best. Instead of being deterred, he approach obstacles with a positive attitude and a willingness to find creative solutions. In addition to his strong work ethic, Sipho is also an exceptional team player. He understand the value of collaboration and are always willing to lend a helping hand to ensure the success of the entire team.",
       "profile": "https://siphochris.github.io/images/images/portfolio_images/keira.jpg"
+    }
+    },
+    {
+      "id": 6,
+      "name": "Mapule",
+      "surname": "Mbuzwana",
+      "testimonial": "Sipho is a has been a great mate to work beside. He is really devoted in his studies, and assisting others is like second nature to him. What truly stands out about Sipho is his ability to remain focused and determined, even he is faced with challenges or setbacks. In the short time that I've known Sipho , he has consistently demonstrated their tenacity and drive to succeed in every task they undertake.",
+      "profile": "https://siphochris.github.io/images/images/portfolio_images/mapule.jpg"
     }
   ],
   "projects": [
@@ -151,6 +159,14 @@
       "description": "I built a keyboard using HTML 5, CSS, Bootstrap, and Javascript.",
       "gitHub": "https://github.com/SiphoChris/Keyboard.git",
       "vercel": "https://keyboard-three-xi.vercel.app/"
+    }
+    },
+    {
+      "name": "Quote Generator",
+      "image": "https://siphochris.github.io/images/images/portfolio_images/random-quote-generator.png",
+      "description": "I built a keyboard using HTML 5, CSS, and Javascript.",
+      "gitHub": "https://github.com/SiphoChris/quote-generator.git",
+      "vercel": "https://quote-generator-k27s.vercel.app/"
     }
   ]
 }
