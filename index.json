@@ -1,9 +1,7 @@
 {
-  "jobTitle": [
-    {
+  "jobTitle": {
       "title": "Junior web developer"
-    }
-  ],
+    },
   "about": {
     "introduction": [
       "Hello there",
@@ -11,7 +9,7 @@
       "I am an aspiring web developer",
       "Please explore my portfolio"
       ],
-    "details": "My name is Sipho Nkebe, and I am passionate about web development. My journey began in 2021 when I wrote my first program in Python. Since then, I've explored various technologies and deepened my skills. As a tech enthusiast, I am committed to staying current with the latest industry trends and advancements."
+    "details": "My name is Sipho Nkebe, and I am passionate about web development. My journey began in 2021 when I wrote my first program in Python. Since then, I've explored various technologies and deepened my skills. As a tech enthusiast, I am committed to staying current with the latest industry trends and advancements.",
     "profile": "https://siphochris.github.io/images/images/portfolio_images/profile.jpg"
   },
   "education": [
@@ -47,6 +45,24 @@
         {
           "img": "https://img.icons8.com/color/96/vue-js.png",
           "title": "VueJS"
+        }
+      ],
+      "backend": [
+        {
+          "img": "https://img.icons8.com/fluency/96/html-5.png",
+          "title": "NodeJS"
+        },
+        {
+          "img": "https://img.icons8.com/fluency/96/css3.png",
+          "title": "ExpressJS"
+        },
+        {
+          "img": "https://img.icons8.com/fluency/96/javascript.png",
+          "title": "Rest APIs"
+        },
+        {
+          "img": "https://img.icons8.com/color/96/vue-js.png",
+          "title": "Firebase"
         }
       ],
       "tools": [
