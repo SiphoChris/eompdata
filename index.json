@@ -86,7 +86,7 @@
     }
     
   },
-    "softSkills": {
+"softSkills": {
     "skills": [
       "Effective communication",
       "Panctuality",
@@ -95,7 +95,7 @@
       "Analytical thinking"
     ]
   },
-  "projects": [
+"projects": [
     {
       "name": "FlipCard",
       "image": "https://siphochris.github.io/images/images/portfolio_images/flipcard.png",
@@ -140,7 +140,7 @@
     },
     {
       "name": "Bloomly",
-      "image": "https://siphochris.github.io/images/images/portfolio_images/random-quote-generator.png",
+      "image": "https://siphochris.github.io/images/images/portfolio_images/Screenshot 2024-09-16 123840.png",
       "description": "I built this e-commerce site using VueJS, CSS, and Javascript.",
       "gitHub": "https://github.com/SiphoChris/Bloomly.git",
       "vercel": "https://bloomly-2b397.firebaseapp.com/"
