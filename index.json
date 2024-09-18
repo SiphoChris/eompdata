@@ -46,6 +46,11 @@
           "img": "https://img.icons8.com/color/96/vue-js.png",
           "title": "VueJS"
         }
+        },
+        {
+          "img": "https://img.icons8.com/fluency/96/bootstrap.png",
+          "title": "Bootstrap"
+        }
       ],
       "backend": [
         {
