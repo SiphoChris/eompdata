@@ -49,19 +49,19 @@
       ],
       "backend": [
         {
-          "img": "https://img.icons8.com/fluency/96/html-5.png",
+          "img": "https://img.icons8.com/color/96/nodejs.png",
           "title": "NodeJS"
         },
         {
-          "img": "https://img.icons8.com/fluency/96/css3.png",
+          "img": "https://img.icons8.com/fluency/96/express-js.png",
           "title": "ExpressJS"
         },
         {
-          "img": "https://img.icons8.com/fluency/96/javascript.png",
+          "img": "https://img.icons8.com/ios-filled/96/api-settings.png",
           "title": "Rest APIs"
         },
         {
-          "img": "https://img.icons8.com/color/96/vue-js.png",
+          "img": "https://img.icons8.com/color/96/firebase.png",
           "title": "Firebase"
         }
       ],
