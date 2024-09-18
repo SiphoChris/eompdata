@@ -109,6 +109,13 @@
   },
 "projects": [
     {
+      "name": "DroneShop",
+      "image": "https://siphochris.github.io/images/images/portfolio_images/droneshop.png",
+      "description": "I built this application using HTML 5, CSS 3, Bootstrap, and Javascript.",
+      "gitHub": "https://github.com/SiphoChris/DroneShop.git",
+      "vercel": "https://drone-shop-eiwrwa9wy-siphos-projects-5834c4e5.vercel.app/"
+    },
+    {
       "name": "FlipCard",
       "image": "https://siphochris.github.io/images/images/portfolio_images/flipcard.png",
       "description": "I built this application using HTML 5, CSS 3, and Javascript.",
