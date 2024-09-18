@@ -57,6 +57,10 @@
           "title": "ExpressJS"
         },
         {
+          "img": "https://img.icons8.com/color/96/mysql-logo.png",
+          "title": "MySQL"
+        },
+        {
           "img": "https://img.icons8.com/ios-filled/96/api-settings.png",
           "title": "Rest APIs"
         },
@@ -81,6 +85,11 @@
         {
           "img": "https://img.icons8.com/nolan/96/1A6DFF/C822FF/visual-studio.png",
           "title": "VS Code"
+        }
+        },
+        {
+          "img": "https://img.icons8.com/dusk/96/postman-api.png",
+          "title": "Postman"
         }
       ]
     }
