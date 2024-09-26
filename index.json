@@ -15,15 +15,20 @@
   "education": [
     {
       "id": 1,
-      "year": 2023,
-      "description": "I got my National Senior Certificate",
-      "place": "Zingisa Comprehensive High School"
+      "year": 2024,
+      "description": "I got into an intern role",
+      "place": "LC Studio (currently)"
     },
     {
       "id": 2,
       "year": 2024,
-      "description": "Web development course (currently enrolled)",
+      "description": "Web development course",
       "place": "Life Choices Academy"
+    },
+      "id": 3,
+      "year": 2023,
+      "description": "I got my National Senior Certificate",
+      "place": "Zingisa Comprehensive High School"
     }
   ],
   "technicalSkills": {
